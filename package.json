@@ -1,0 +1,22 @@
+{
+  "name": "hapi-tests",
+  "version": "1.0.0",
+  "description": "my temporal hapi tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wences-dc-uba-ar/hapi-tests.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "wences@dc.uba.ar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wences-dc-uba-ar/hapi-tests/issues"
+  },
+  "homepage": "https://github.com/wences-dc-uba-ar/hapi-tests#readme"
+}
