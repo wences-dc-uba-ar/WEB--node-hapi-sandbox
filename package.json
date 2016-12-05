@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/wences-dc-uba-ar/hapi-tests/issues"
   },
-  "homepage": "https://github.com/wences-dc-uba-ar/hapi-tests#readme"
+  "homepage": "https://github.com/wences-dc-uba-ar/hapi-tests#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "hapi": "^16.0.1",
+    "hapi-sequelize": "^3.0.4",
+    "joi": "^10.0.5",
+    "mysql": "^2.12.0",
+    "sequelize": "^3.27.0",
+    "sequelize-cli": "^2.4.0"
+  }
 }
